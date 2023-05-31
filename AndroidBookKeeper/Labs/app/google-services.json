@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "14543872847",
+    "firebase_url": "https://labs-library-6de86-default-rtdb.firebaseio.com",
+    "project_id": "labs-library-6de86",
+    "storage_bucket": "labs-library-6de86.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:14543872847:android:b0a60a329824652aa2db3a",
+        "android_client_info": {
+          "package_name": "com.example.labs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "14543872847-lc2o4e5tav761jpu185kg8hv5u7pvbq9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZsZTTALLGzLGfcREmpM6aoXVIuZSloWc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "14543872847-lc2o4e5tav761jpu185kg8hv5u7pvbq9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
